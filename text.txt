@@ -1,0 +1,3 @@
+
+
+Take the following resume content and convert it into a JSON format with keys for 'Name,' 'Contact Information,' 'Education,' 'Work Experience,' 'Skills,' and 'Certifications.' Here’s the resume:

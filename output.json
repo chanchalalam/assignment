@@ -1,0 +1,109 @@
+{
+  "Name": "Chanchal Alam",
+  "Contact Information": {
+    "Phone": "+916203247467",
+    "Email": "chanchalalam00@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/chanchalalam786",
+    "GitHub": "https://github.com/chanchalalam",
+    "Kaggle": "https://www.kaggle.com/chanchal24"
+  },
+  "Education": [
+    {
+      "Institution": "Lovely Professional University",
+      "Location": "Jalandhar, Punjab",
+      "Degree": "Bachelor of Technology in Data Science (Artificial Intelligence and Machine Learning)",
+      "Start Date": "September 2021",
+      "End Date": "Present",
+      "Expected Graduation": "June 2025",
+      "Relevant Coursework": [
+        "Algorithms and Data Structures",
+        "Database Management System",
+        "Operating System",
+        "Computer Network",
+        "Linear Algebra",
+        "Discrete Mathematics",
+        "Artificial Intelligence"
+      ]
+    }
+  ],
+  "Work Experience": [
+    {
+      "Position": "Data Analyst Intern",
+      "Company": "CodersCave",
+      "Location": "Virtual Internship",
+      "Start Date": "October 2023",
+      "End Date": "November 2023",
+      "Responsibilities": [
+        "Worked on a breast cancer detection project using SVM, Logistic Regression, KNN, and Random Forest models, achieving best accuracy of 98.24% using Logistic Regression.",
+        "Developed a Speech Emotion Recognition system using LSTM, visualizing audio data with wave plots and spectrograms, achieving 98% accuracy in emotion classification.",
+        "Worked on a Spam or Ham detection project using a pipeline with a vectorizer and Naive Bayes, achieving good accuracy."
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Title": "Facial Emotion Recognition",
+      "Technologies": ["Python", "OpenCV", "CNNs"],
+      "Date": "March 2024",
+      "Description": [
+        "Used OpenCV to detect faces in images or video frames using pre-trained deep learning-based methods like CNNs, achieving 98% accuracy.",
+        "Analyzed facial features like eyes, eyebrows, and mouth to classify emotions using machine learning models trained on labeled datasets.",
+        "Integrated with webcam feeds to provide real-time emotion recognition, enabling applications like emotion-aware interfaces."
+      ]
+    },
+    {
+      "Title": "YouTube-Video-to-Detailed-Notes-Converter",
+      "Technologies": ["Python", "LLM"],
+      "Date": "January 2024",
+      "Description": [
+        "Developed an application using LLM to automatically generate detailed notes from YouTube video transcripts.",
+        "Streamlined the process of extracting key insights from lengthy video content, making it useful for students, researchers, and professionals.",
+        "Enhanced the efficiency of consuming video-based information by providing well-structured and concise notes."
+      ]
+    },
+    {
+      "Title": "Quora Text Classification",
+      "Technologies": ["Python", "NLP"],
+      "Date": "November 2023",
+      "Description": [
+        "Performed data cleaning and text preprocessing using NLTK, including stop word removal, tokenization, stemming, and lemmatization.",
+        "Created a vocabulary and converted text into numerical representation using CountVectorizer for machine learning models.",
+        "Implemented a Logistic Regression model for text classification, achieving an accuracy of 94%."
+      ]
+    }
+  ],
+  "Skills": [
+    "Python",
+    "Java",
+    "R",
+    "Tableau",
+    "ML algorithms",
+    "TensorFlow",
+    "PyTorch",
+    "NLP",
+    "Deep Learning",
+    "OpenCV",
+    "Mediapipe",
+    "Computer Vision",
+    "PySpark",
+    "Large Language Models (LLMs)",
+    "RAG",
+    "MySQL",
+    "MongoDB",
+    "MS Excel",
+    "Web Scraping",
+    "Selenium",
+    "DSA",
+    "Frontend",
+    "Backend",
+    "Figma",
+    "RapidMiner",
+    "Informatica Tools"
+  ],
+  "Certifications": [
+    "Data Analysis with Python by Jovian",
+    "Machine Learning and Data Science Program by GeeksForGeeks",
+    "Introduction to Artificial Intelligence by Kaggle",
+    "Web Development Bootcamp by Udemy"
+  ]
+}
